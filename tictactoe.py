@@ -1,3 +1,4 @@
+#This game will not have O and X but it will have 1 and 2 instead of them.
 print("This game will be of 1 and 2 in tic tac toe" )
 winner=3
 game=0
